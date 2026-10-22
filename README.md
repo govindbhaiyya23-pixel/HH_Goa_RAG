@@ -63,9 +63,13 @@ API, Gradio, Docker
 
 ## 2. Other practice notebooks
 
-- **Untitled2.ipynb:** Bayes' theorem calculation (prior, likelihood,
-  evidence, posterior probability).
-- **Untitled3.ipynb:** C programs run in Colab: a binary search tree
-  and graph traversal (DFS and BFS) using an adjacency matrix.
-- **Untitled0.ipynb / Untitled1.ipynb:** Setup, backup, and Git
-  push steps for the RAG project.
+- **01_rag_app_setup_and_testing.ipynb:** Restores the RAG project from
+  Google Drive, writes `app.py`, `requirements.txt`, `Dockerfile`, and
+  `README.md`, and runs the Gradio app.
+- **02_git_backup_and_push.ipynb:** Backs up the project to Google
+  Drive and pushes it to GitHub.
+- **03_bayes_theorem.ipynb:** Bayes' theorem calculation (prior,
+  likelihood, evidence, posterior probability).
+- **04_c_bst_and_graph_traversal.ipynb:** C programs run in Colab: a
+  binary search tree and graph traversal (DFS and BFS) using an
+  adjacency matrix.
