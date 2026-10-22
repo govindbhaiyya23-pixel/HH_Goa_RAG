@@ -1,0 +1,22 @@
+[
+  {
+    "id": "doc1",
+    "text": "Artificial intelligence is a field of computer science that enables machines to perform tasks that normally require human intelligence."
+  },
+  {
+    "id": "doc2",
+    "text": "Machine learning is a subset of artificial intelligence where computers learn patterns from data and use those patterns to make predictions or decisions."
+  },
+  {
+    "id": "doc3",
+    "text": "Deep learning uses neural networks with multiple layers to learn complex patterns from large amounts of data."
+  },
+  {
+    "id": "doc4",
+    "text": "Retrieval-Augmented Generation combines information retrieval with language generation to produce answers grounded in relevant documents."
+  },
+  {
+    "id": "doc5",
+    "text": "A vector database stores numerical representations called embeddings and allows efficient similarity search between queries and documents."
+  }
+]
